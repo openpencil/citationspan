@@ -6,7 +6,8 @@ A toolset for exploration and visualization of citations in python.
 given paper.
 
 # Coding Steps
- - [ ] Accept Input: A reference list
+ - [ ] Set up colab as a coding environment
+ - [ ] Accept Input: A reference list   
  - [ ] Process Input into a standard citation format
  - [ ] Create citation dataset for exploration
  - [ ] Extract year  
