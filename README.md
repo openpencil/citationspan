@@ -7,6 +7,7 @@ given paper.
 
 # Coding Steps
  - [ ] Set up colab as a coding environment
+ - [ ] Use Google API access patterns
  - [ ] Accept Input: A reference list   
  - [ ] Process Input into a standard citation format
  - [ ] Create citation dataset for exploration
