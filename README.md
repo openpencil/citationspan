@@ -1,24 +1,17 @@
-# `citationspan`
-A toolset for exploration and visualization of citations in python.
+# `ghgp`
+A toolset for exploration of Greenhouse Gas Protocol documents.
 
 # Goals
-* Get a sense of timespan and importance of the citations used in any
-given paper.
+* Parse Greenhouse Gas Protocol docs programmatically and extract insights.
 
 # Coding Steps
  - [ ] Set up colab as a coding environment
  - [ ] Use Google API access patterns
- - [ ] Accept Input: A reference list   
- - [ ] Process Input into a standard citation format
- - [ ] Create citation dataset for exploration
- - [ ] Extract year  
- - [ ] Extract titles 
- - [ ] Shorten titles to a specific width
- - [ ] Create frequency distribution viz by year
- - [ ] Access Google Scholar
- - [ ] For each title, extract citation list
- - [ ] Enumerate number of citations per title
- - [ ] Create bubble chart within frequency distribution
+ - [ ] Accept Input: A URL with GHGP document
+ - [ ] Process Input: Into a dictionary of sentences
+ - [ ] Create GHGP dataset for exploration
+ - [ ] Extract insights
+ - [ ] Summarize findings
 
 # Python Libraries
 NLTK: https://www.nltk.org/
